@@ -12,3 +12,4 @@ while True:
     print(shock.value())
     time.sleep(0.5)#暫停0.5秒
     
+    
